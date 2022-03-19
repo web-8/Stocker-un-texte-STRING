@@ -1,0 +1,25 @@
+body{
+    background-image: url(./background.png);
+}
+.contenair{
+    margin-top: 558px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+p{
+    font-size: 150%;
+    color: blue;
+}
+h1{
+    font-size: 180%;
+    color: brown;
+}
+h2{
+    font-size: 165%;
+    text-transform: uppercase;
+    color: rgb(44, 7, 78);
+}
+img{
+    width: 50%;
+}
